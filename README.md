@@ -19,7 +19,7 @@ Source code and notes included.
   <img src="https://github.com/user-attachments/assets/192f1ff9-19dd-46e9-a253-a8b8a27b1574" width="400">
 
    
-### Smooth Particle Hydrodynamics
+### Smoothed Particle Hydrodynamics
 
   <img src="https://github.com/user-attachments/assets/76f5dab6-c323-4007-a182-848b2ae90ccd" width="400">
   <img src="https://github.com/user-attachments/assets/0d8082d8-7830-4327-82a9-312ea5cfd795" width="400">
